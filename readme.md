@@ -4,6 +4,10 @@
 
 - El link es:
 
-__https://api.whatsapp.com/send?phone=34688776396&text=__
+```js
+
+__https://api.whatsapp.com/send?phone=34688778899&text=__
+
+``
 
 Reemplazar el número por el correspondiente al número de whatsapp al que se quiere vincular.
